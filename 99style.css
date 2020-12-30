@@ -1,0 +1,103 @@
+@font-face {
+    font-family: Ssang;
+    src: url('Typo_Ssang.ttf');
+}
+a:link { color: white; text-decoration: none;}
+a:visited { color: white; text-decoration: none;}
+a:hover { color:white; text-decoration: underline;}
+body {
+    margin: 0px;
+    background-image: url(bgimage.jpg);
+    background-repeat: repeat;
+    color: white;
+    font-family: Ssang;
+    text-align: center;
+}
+h1 {
+    font-size: 80px;
+    text-align: center;
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 10px;
+}
+#menu {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 3px solid red;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 300px;
+}
+#vs {
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#itr {
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#menu2 {
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#if {
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#ac {
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#sns {
+    background-color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#video {
+    display: cen;
+    border: 30px solid black;
+}
+#vsimg2 {
+    margin-left: 20px;
+}
+#vsimg1 {
+    border: 7px solid black;
+}
+#itrimg {
+    border: 7px solid black;
+}
+#menuimg {
+    border: 7px solid black;
+}
+#ifimg {
+    border: 7px solid black;
+}
+#acimg2 {
+    margin-left: 20px;
+}
+#acimg1 {
+    border: 7px solid black;
+}
+#facebookimg {
+    margin-left: 100px;
+}
